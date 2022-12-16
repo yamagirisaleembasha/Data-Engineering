@@ -32,4 +32,6 @@ void main()
     printf("given data is negatively correlated");
     else
     printf("given data is positively correlated");
+    /*50 51 52 53 54
+    3.1 3.2 3.3 3.4 3.5*/
 }
