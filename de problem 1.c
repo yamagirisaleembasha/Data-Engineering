@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main()
+    
 {
     int q1index,q3index,modality=1,n,i,j,p,k=0,c=1,big,q1,q3;
     printf("enter number of observations:\n");
