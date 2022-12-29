@@ -36,3 +36,7 @@ void main()
     else
     printf("given data is positively correlated");
 }
+/*
+output:
+
+*/
