@@ -43,4 +43,5 @@ void main()
     for(i=0;i<n;i++)
     printf("%.2f\t",a[i]);
     printf("\n");
+    
 }
